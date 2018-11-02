@@ -22,6 +22,7 @@ public class FastDFSdemoTest {
 //        7、返回数组。包含组名和图片的路径，打印结果。
         for (String s : upload_file) {
             System.out.println(s);
+			System.out.println(s);
         }
     }
 }
